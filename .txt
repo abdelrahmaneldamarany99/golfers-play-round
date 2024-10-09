@@ -1,0 +1,6 @@
+Warning: Extra attributes from the server: data-new-gr-c-s-check-loaded,data-gr-ext-installed,cz-shortcut-listen,data-lt-installed
+I don't know why it happens, what is the explanation for this?
+
+===> Disabling the Grammarly extension solved the problem for me.
+
+________________________________________________________________
